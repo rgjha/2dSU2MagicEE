@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+physics-tenpy==1.1.1
+pytest
